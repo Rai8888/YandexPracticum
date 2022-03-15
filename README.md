@@ -1,3 +1,3 @@
 # YandexPracticum
-Free JS tutorials from Yandex Practicum
+Free JS tutorial from Yandex Practicum
 https://raiska8.github.io/YandexPracticum/
